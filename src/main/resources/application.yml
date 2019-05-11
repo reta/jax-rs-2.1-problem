@@ -1,0 +1,6 @@
+cxf:
+  jaxrs:
+    component-scan: true
+  path: /api
+server:
+  port: 21020
